@@ -29,18 +29,6 @@
   <img src="https://skillicons.dev/icons?i=spring,mysql,redis,docker,git,github,idea,maven&theme=dark" />
 </p>
 
-### 🚀 Featured Projects
-
-- **[exam-gen](https://github.com/213f08/exam-gen)** ⭐ — RAG + agent exam-generation system (graduation project): Spring Boot 3.5 + Spring AI 1.1 + Elasticsearch 8 hybrid search + React 19
-- **[fox-ai-agent](https://github.com/213f08/fox-ai-agent)** — a diet and health assistant built with Spring Boot + Spring AI Alibaba
-- **[hmall-springcloud](https://github.com/213f08/hmall-springcloud)** — split a monolithic e-commerce backend into five services along business boundaries, with Nacos discovery and OpenFeign calls
-
-### 🌱 Open Source
-
-- **[apache/fesod#1325](https://github.com/apache/fesod/pull/1325)** — added a `MonthDay` converter family: locale-aware formatting plus 32 tests; all 15 CI checks green, under review
-- **[mdiri-ai/SoduWork#222](https://github.com/mdiri-ai/SoduWork/pull/222)** / **[#224](https://github.com/mdiri-ai/SoduWork/pull/224)** — Windows compatibility fixes: skipping POSIX-only runner tests and resolving junction paths
-- **[apache/dolphinscheduler#18763](https://github.com/apache/dolphinscheduler/pull/18763)** — unit tests for `LogUtils` (closed): learned that coverage alone is not a goal
-
 ### 📚 Currently Learning
 
 - 🧠 **AI agents**: ReAct / MCP / LangGraph, and how to bring them into real products
